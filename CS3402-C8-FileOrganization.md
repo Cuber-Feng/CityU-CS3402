@@ -1,5 +1,3 @@
-### 7. 假设 block 的大小是 B 字节，记录大小是 R 字节，并且 B ≥ R。
-
 # CS3402 Lec 8 File Organization
 
 > Apr-08-2025
