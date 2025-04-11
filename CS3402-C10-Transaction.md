@@ -82,6 +82,20 @@ same in both schedule
 
 - Non-Recoverable Schedule 不能解决这个问题
 
-- Recoverable schedule, 如果 Ti读了Tj写的数据, 则Tj必然已经先提交(commit)
+### 一些标准
 
+#### Recoverable schedule
 
+- No committed transaction needs to be rolled back (提交过的不需要回滚)
+- 如果 Ti 读了 Tj 写的数据, 那Ti 需要等Tj提交后才能提交
+
+#### Cascadeless schedule
+
+- Before Ti reads an item written by Tj，Tj is already committed
+- 直接不允许你读那种被别人写了但是别人没提交的东西
+
+#### Strict Schedules
+
+- A schedule in which a transaction can neither read or write an item X until the last transaction that wrote X has committed
+
+- 对于别人写了但是未提交的东西, 既不让你读也不让你写
