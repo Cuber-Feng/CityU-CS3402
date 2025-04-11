@@ -23,7 +23,7 @@
   - For transaction management (where to start and where to finish)
   - The new values from a transaction will become permanent only if the transaction is committed successfully
 
-## 2. 如何提升事务处理性 (transactio Processing Performance)
+## 2. 如何提升事务处理性 (Transactio Processing Performance)
 
 > Serial Schedule vs. Serializable Schedule
 
