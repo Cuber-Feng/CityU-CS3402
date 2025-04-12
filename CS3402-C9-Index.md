@@ -1,3 +1,5 @@
+# Indexing
+
 ## 🌳 B 树（B-tree）
 
 - 定义：B 树是一种自平衡的多路查找树，每个节点可以有多个子节点，适合在磁盘或其他块设备上存储数据。
@@ -42,5 +44,5 @@
 ## Insert & Deletion
 核心理念就是: 从下往上, 多了就拆分, 少了就合并, 具体操作可以看slide里面的demo
 
-## 推荐 YouTube 视频(印度口音)
-https://youtu.be/aZjYr87r1b8?si=dLSITXZ2E1s5evZl
+## 推荐 YouTube 视频
+- [印度口音](https://youtu.be/aZjYr87r1b8?si=dLSITXZ2E1s5evZl)
