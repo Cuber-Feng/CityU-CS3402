@@ -1,7 +1,7 @@
-# CS3402 Lec 8 File Organization
+# File Organization
 
-> Apr-08-2025
-
+> Last Updated: Apr 12, 2025
+## 一些简单的东西
 Data Abstraction: 3-level architecture
 
 Storage Medium for Databases
