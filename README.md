@@ -1,5 +1,6 @@
 # Welcome!!!
 > This is for CityUHK CS Course CS3402 Database System
+> Last Updated: Apr 12, 2025
 ## Lectures:
 - C01 ER Model
 - C02 ER & relational Model
