@@ -1,6 +1,6 @@
 # Welcome!!!
 > - This is for CityUHK CS Course CS3402 Database System
-> - Last Updated: Apr 12, 2025
+> - Last Updated: Apr 15, 2025
 ## Lectures:
 - C01 ER Model
 - C02 ER & relational Model
@@ -13,6 +13,7 @@
 - C09 [Indexing](https://github.com/Cuber-Feng/CityU-CS3402/blob/main/CS3402-C9-Index.md)
 - C10 [Transaction Management](https://github.com/Cuber-Feng/CityU-CS3402/blob/main/CS3402-C10-Transaction.md)
 - C11 Concurrency Control
+- C12 [Final Review](https://github.com/Cuber-Feng/CityU-CS3402/blob/main/CS3402FinalReview.md)
 
 ## Assessment
 - Coursework -- 40% 
